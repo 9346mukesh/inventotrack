@@ -26,6 +26,7 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5174',
   'http://localhost:3000',
+  'https://inventotrack.vercel.app',
   process.env.FRONTEND_URL // Add your Vercel URL in production
 ].filter(Boolean);
 
