@@ -287,10 +287,10 @@ Steps Tested:
 
 ## TESTING TEAM CERTIFICATION
 
-This document certifies that comprehensive manual functional testing has been performed on the InventoTrack e-commerce platform by the QA team. All critical user journeys have been tested, and issues have been properly documented with detailed reproduction steps, root cause analysis, and recommended fixes.
+This document certifies that comprehensive manual functional testing has been performed on the InventoTrack e-commerce platform by Mukesh Kumar Reddy. All critical user journeys have been tested, and issues have been properly documented with detailed reproduction steps, root cause analysis, and recommended fixes.
 
 **Test Certification Date:** February 4, 2026  
-**Testing Team:** QA Team  
+**Testing Team:** Mukesh Kumar Reddy  
 **Testing Methodology:** Manual Functional Testing  
 **Confidence Level:** High (93.65% pass rate)
 

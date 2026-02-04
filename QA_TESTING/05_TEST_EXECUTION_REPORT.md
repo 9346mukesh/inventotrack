@@ -388,7 +388,7 @@ WebP image format upload fails, though JPG, PNG, GIF work fine.
 
 ## SIGN-OFF
 
-**QA Lead:** QA Team  
+**QA Lead:** Mukesh Kumar Reddy  
 **Test Date:** February 4, 2026  
 **Report Status:** READY FOR REVIEW  
 **Release Recommendation:** CONDITIONAL (fix 2 critical bugs first)

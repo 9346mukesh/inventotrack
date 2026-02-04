@@ -351,13 +351,13 @@
 
 | Scenario # | Module | Status | Executed By | Date |
 |-----------|--------|--------|-------------|------|
-| TS001 | Authentication | ✓ Complete | QA Team | Feb 4, 2026 |
-| TS002 | Authentication | ✓ Complete | QA Team | Feb 4, 2026 |
-| TS003 | Authentication | ✓ Complete | QA Team | Feb 4, 2026 |
-| TS004 | Product Mgmt | ✓ Complete | QA Team | Feb 4, 2026 |
-| TS005 | Shopping Cart | ✓ Complete | QA Team | Feb 4, 2026 |
-| TS006 | Shopping Cart | ✓ Complete | QA Team | Feb 4, 2026 |
-| TS007 | Checkout | ✓ Complete | QA Team | Feb 4, 2026 |
-| TS008 | Payment | ✓ Complete | QA Team | Feb 4, 2026 |
-| TS009 | Orders | ✓ Complete | QA Team | Feb 4, 2026 |
-| TS010 | Admin Features | ✓ Complete | QA Team | Feb 4, 2026 |
+| TS001 | Authentication | ✓ Complete | Mukesh Kumar Reddy | Feb 4, 2026 |
+| TS002 | Authentication | ✓ Complete | Mukesh Kumar Reddy | Feb 4, 2026 |
+| TS003 | Authentication | ✓ Complete | Mukesh Kumar Reddy | Feb 4, 2026 |
+| TS004 | Product Mgmt | ✓ Complete | Mukesh Kumar Reddy | Feb 4, 2026 |
+| TS005 | Shopping Cart | ✓ Complete | Mukesh Kumar Reddy | Feb 4, 2026 |
+| TS006 | Shopping Cart | ✓ Complete | Mukesh Kumar Reddy | Feb 4, 2026 |
+| TS007 | Checkout | ✓ Complete | Mukesh Kumar Reddy | Feb 4, 2026 |
+| TS008 | Payment | ✓ Complete | Mukesh Kumar Reddy | Feb 4, 2026 |
+| TS009 | Orders | ✓ Complete | Mukesh Kumar Reddy | Feb 4, 2026 |
+| TS010 | Admin Features | ✓ Complete | Mukesh Kumar Reddy | Feb 4, 2026 |
