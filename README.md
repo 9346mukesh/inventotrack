@@ -10,6 +10,7 @@ A full-stack e-commerce platform with real-time inventory management, Amazon-sty
 
 ## 📋 Table of Contents
 
+- [Testing Results](#-testing-results)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Architecture](#-architecture)
@@ -20,6 +21,68 @@ A full-stack e-commerce platform with real-time inventory management, Amazon-sty
 - [Key Features Explained](#-key-features-explained)
 - [Contributing](#-contributing)
 - [License](#-license)
+
+## 🧪 Testing Results
+
+**Manual QA Testing Phase Completed** ✅  
+**Date**: February 4, 2026 | **Duration**: February 1-4, 2026  
+
+### Test Summary
+| Metric | Result |
+|--------|--------|
+| **Total Test Cases** | 63 |
+| **Test Cases Passed** | 59 (93.65%) ✅ |
+| **Test Cases Failed** | 4 (6.35%) ⚠️ |
+| **Modules Tested** | 7/7 (100%) |
+| **Browsers Tested** | Chrome, Firefox, Safari, Edge |
+| **Devices Tested** | Desktop, Laptop, Tablet, Mobile |
+
+### Module-wise Test Coverage
+- ✅ **Authentication** - 15/15 passed (100%)
+- ⚠️ **Product Management** - 9/10 passed (90%)
+- ⚠️ **Shopping Cart** - 9/10 passed (90%)
+- ✅ **Checkout** - 8/8 passed (100%)
+- ⚠️ **Payment Processing** - 8/9 passed (89%)
+- ✅ **Order Management** - 6/6 passed (100%)
+- ⚠️ **Admin Dashboard** - 4/5 passed (80%)
+
+### Bugs Found & Reported
+| Bug ID | Issue | Severity | Status |
+|--------|-------|----------|--------|
+| BUG-001 | Empty password login accepted | 🔴 CRITICAL | Open |
+| BUG-002 | Cart not persisting after refresh | 🟠 HIGH | Open |
+| BUG-003 | Duplicate orders during payment | 🔴 CRITICAL | Open |
+| BUG-004 | WebP image format not supported | 🟡 MEDIUM | Open |
+
+### Quality Metrics
+- **Code Quality**: 93.65% Pass Rate ✅
+- **Security Issues**: 1 Critical, 1 High ⚠️
+- **User Experience**: Good overall, cart persistence needs fix
+- **Performance**: All APIs responding in <2.5s
+- **Cross-platform**: Fully compatible with all tested browsers/devices
+
+### Complete QA Documentation
+All testing documentation is available in the `/QA_TESTING/` folder:
+- 📄 **01_TEST_PLAN.md** - Comprehensive testing strategy
+- 📋 **02_TEST_SCENARIOS.md** - 10 detailed user journey scenarios
+- 📊 **03_TEST_CASES.csv** - 63 test cases with execution status
+- 🐛 **04_BUG_REPORTS.md** - Detailed bug reports with root causes
+- 📈 **05_TEST_EXECUTION_REPORT.md** - Complete test results & analysis
+- 📝 **06_QA_SUMMARY.md** - Executive summary
+- ✅ **00_COMPLETION_CERTIFICATE.md** - QA completion certification
+
+### Recommended Actions
+🔴 **CRITICAL (Fix Before Release)**
+- Fix BUG-001: Password validation (30 min)
+- Fix BUG-003: Duplicate order prevention (2-3 hours)
+
+🟠 **HIGH (Before Next Release)**
+- Fix BUG-002: Cart localStorage persistence (1 hour)
+
+🟡 **MEDIUM (Next Sprint)**
+- Fix BUG-004: WebP image format support (30 min)
+
+---
 
 ## ✨ Features
 
