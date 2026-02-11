@@ -4,7 +4,10 @@ InventoTrack is a **full-stack MERN e-commerce platform** designed with real-wor
 
 Built to simulate production-grade architecture with scalable backend design, secure workflows, and analytics-driven admin management.
 
+## Live Website Demo
 
+    https://inventotrack.vercel.app
+    
 ## 🌐 Overview
 
 Traditional e-commerce projects often ignore real inventory challenges like overselling, race conditions, and payment verification.
