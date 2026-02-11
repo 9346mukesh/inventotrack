@@ -6,7 +6,7 @@ Built to simulate production-grade architecture with scalable backend design, se
 
 ## Live Website Demo
 
-    https://inventotrack.vercel.app
+https://inventotrack.vercel.app
     
 ## 🌐 Overview
 
